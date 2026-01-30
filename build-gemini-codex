@@ -1,0 +1,2 @@
+
+I want you to build INVICTUS: Create Avalanche L1 via Console, deploy Next.js frontend with Notion/Linear UI, Node.js backend with OpenAI integration, smart contracts for agent NFTs/audit, vector memory store. Agent = prompt+model+tools+memory. POST /agents/:id/run for execution.
