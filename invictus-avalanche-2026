@@ -1,0 +1,170 @@
+i want you to build INVICTUS, a revolutionary personal workspace OS that fundamentally changes how humans interact with AI agents.
+
+THE VISION
+I want you to build a system where AI agents aren't just chatbots that forget everything - they're persistent digital beings that live in your workspace, remember every interaction, and grow smarter over time. Think Notion + Linear + CRM, but with embedded AI agents that actually understand your business, your patterns, and your goals.
+
+THE CORE PROBLEM WE'RE SOLVING
+Current AI tools are digital amnesia machines:
+
+ChatGPT forgets you exist after each conversation
+Notion AI has no context about your projects
+Linear AI doesn't know your team dynamics
+Every tool is isolated, dumb, and temporary
+I want you to build the opposite: AI agents with perfect memory that live inside your actual work tools and coordinate with each other.
+
+THE TECHNICAL BREAKTHROUGH
+I want you to build this on Avalanche blockchain because it gives us three superpowers:
+
+1. Immortal Memory: Agent memories stored on-chain never die, never get deleted, never forget 2. True Ownership: You own your agents completely - they can't be censored, shut down, or taken away 3. Portability: Your agents can be transferred, sold, or shared while keeping all their knowledge
+
+THE PRODUCT SPECIFICATION
+I want you to build a workspace with these core components:
+
+Workspace Interface
+Document Editor (Notion-style): For notes, specs, planning
+Task Management (Linear-style): Projects, issues, sprints
+Contact/Deal Pipeline (CRM-style): Clients, opportunities, relationships
+Agent Chat Interface: Direct conversation with your AI workforce
+Agent Architecture
+Each agent = System Prompt + Model + Tools + Memory
+
+System Prompt: Defines personality and role
+Model: GPT-4, Claude, or local LLM
+Tools: Functions they can call (create tasks, edit docs, update CRM)
+Memory: Vector embeddings of every interaction, stored permanently
+The Magic Contract
+
+POST /agents/:id/run
+Input: User message + workspace context
+Output: Agent response + tool executions + audit trail
+THE KILLER FEATURES
+I want you to build these game-changing capabilities:
+
+1. Perfect Context Continuity
+
+
+User: "Create a Tesla integration project"
+[User closes app, returns 3 days later]
+User: "What was that Tesla thing about?"
+Agent: "The Tesla integration project from Monday. We defined 
+        the scope as API connectivity with 3-week timeline..."
+2. Cross-Workspace Intelligence
+
+
+[In CRM] User adds: "Elon Musk, Tesla CEO"
+[Agent proactively suggests] "I notice you have a Tesla project 
+in your task board. Should I connect this contact to that project 
+and create a meeting prep doc?"
+3. Agent Coordination
+
+
+Doc Agent: "I updated the project spec"
+Task Agent: "I saw the changes, updating sprint priorities"  
+CRM Agent: "Should I notify the client about scope changes?"
+4. External MCP Access
+
+
+# External systems can call your agents
+curl -X POST workspace.com/mcp/agent/call \
+  -d '{"prompt": "What are my priorities this week?"}'
+# Agent responds with full workspace context
+THE BLOCKCHAIN LAYER
+I want you to build this on Avalanche because:
+
+Custom L1 for Performance: Your own blockchain optimized for agent operations
+
+Sub-second finality for real-time agent responses
+Custom gas economics (free for basic operations)
+Unlimited throughput for agent-to-agent communication
+Agent NFTs for Ownership:
+
+Agents become tradeable digital assets
+Transfer ownership while preserving all memories
+Build a marketplace for specialized, trained agents
+"Senior DevOps Agent with 1000+ deployment memories" - worth 50 ETH
+Immutable Audit Trail:
+
+Every agent action logged on-chain
+Perfect transparency and accountability
+Debug agent behavior across months of interactions
+Prove agent ROI with concrete metrics
+THE DEVELOPMENT APPROACH
+I want you to build this in phases:
+
+Phase 1: Foundation (Weeks 1-3)
+Deploy Avalanche L1 using Console tools
+Basic workspace UI (React/Next.js)
+Simple agent processing (Node.js + OpenAI)
+Memory persistence (vector store + blockchain)
+Phase 2: Intelligence (Weeks 4-6)
+Cross-workspace context awareness
+Tool calling system for workspace operations
+Agent learning and memory optimization
+Real-time collaboration features
+Phase 3: Portability (Weeks 7-9)
+Agent NFT implementation
+MCP server for external access
+Agent export/import functionality
+Performance optimization
+Phase 4: Production (Weeks 10-12)
+Hackathon demo preparation
+Security hardening
+Documentation and deployment
+Launch strategy execution
+THE BUSINESS MODEL
+I want you to build multiple revenue streams:
+
+Freemium Workspace: Basic workspace free, advanced agents paid Agent Marketplace: Commission on agent sales/rentals Enterprise Licensing: Custom agent templates for companies API Access: Usage-based pricing for external MCP calls
+
+THE COMPETITIVE ADVANTAGE
+I want you to build something that cannot be replicated by existing players:
+
+vs Notion: They can't add persistent agents without rebuilding everything
+vs OpenAI: They can't offer true ownership and portability
+vs Microsoft: They're locked into centralized architecture
+vs Startups: You have blockchain-based persistence they can't match
+THE HACKATHON STRATEGY
+I want you to build for Build Games 2026 with this demo strategy:
+
+Problem Demo: Show ChatGPT forgetting vs. your agent remembering Solution Demo: Show seamless workspace with embedded intelligence Innovation Demo: Show agent NFT transfer with memory preservation Market Demo: Show external MCP access and business value
+
+Judge Appeal: This isn't just another AI chat tool - it's the iPhone moment for AI agents
+
+THE LONG-TERM VISION
+I want you to build the foundation for:
+
+Personal AI Workforce: Everyone has a team of specialized agents
+Agent Economy: Rent/buy/sell trained agents like digital employees
+Intelligence Stewardship: Your company becomes the gold standard
+Web3 AI Infrastructure: The protocol layer for owned artificial intelligence
+THE IMMEDIATE NEXT STEPS
+I want you to start by:
+
+Getting set up: Testnet faucet → Create L1
+Learning foundations: Avalanche L1 Academy
+Building MVP: Core workspace + basic agent + memory persistence
+Registering for hackathon: Build Games 2026 signup
+THE BOTTOM LINE
+I want you to build INVICTUS because the world needs AI agents that:
+
+Remember everything (not digital amnesia)
+Truly belong to you (not corporate surveillance)
+Work together intelligently (not isolated tools)
+Grow with you over time (not static software)
+This isn't just a productivity app - it's the next evolution of human-AI collaboration.
+
+Ready to build the future? Let's start with Phase 1 and create something that changes everything.
+
+Sources (4) — click to preview
+
+
+Console tools
+
+Testnet faucet
+
+Create L1
+
+Avalanche L1 Academy
+
+Was this helpful?
+
